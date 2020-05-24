@@ -1,0 +1,5 @@
+*.out
+ittration.cpp
+random.cpp
+bisection.cpp
+secant.cpp

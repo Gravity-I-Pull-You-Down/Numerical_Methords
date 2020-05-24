@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/GaussJordan.dir/main.cpp.o  -o GaussJordan 
