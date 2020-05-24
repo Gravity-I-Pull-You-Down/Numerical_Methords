@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Bisection.dir/main.cpp.o  -o Bisection 

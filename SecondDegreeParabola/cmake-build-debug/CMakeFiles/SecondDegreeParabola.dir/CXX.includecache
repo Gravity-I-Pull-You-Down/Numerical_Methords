@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/sda5/CPP_STL/SecondDegreeParabola/main.cpp
+iostream
+-
+vector
+-
+valarray
+-
+numeric
+-
+

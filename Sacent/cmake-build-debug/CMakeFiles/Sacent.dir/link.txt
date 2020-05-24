@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Sacent.dir/main.cpp.o  -o Sacent 

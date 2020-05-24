@@ -1,0 +1,3 @@
+/mnt/sda5/CPP_STL/NewtonRapson/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/sda5/CPP_STL/NewtonRapson/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/sda5/CPP_STL/NewtonRapson/cmake-build-debug/CMakeFiles/NewtonRapson.dir

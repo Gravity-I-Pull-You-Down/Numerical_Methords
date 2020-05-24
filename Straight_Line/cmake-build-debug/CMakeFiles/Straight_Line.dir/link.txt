@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Straight_Line.dir/main.cpp.o  -o Straight_Line 

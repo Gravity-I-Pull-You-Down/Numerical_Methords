@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/GaussElimination.dir/main.cpp.o  -o GaussElimination 
