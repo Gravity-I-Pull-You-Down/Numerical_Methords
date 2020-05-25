@@ -1,4 +1,4 @@
-# Install script for directory: /mnt/sda5/CPP_STL/NewtonRapson
+# Install script for directory: /mnt/sda5/Numerical/NewtonRapson
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/mnt/sda5/CPP_STL/NewtonRapson/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/mnt/sda5/Numerical/NewtonRapson/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/mnt/sda5/CPP_STL/Straight_Line/main.cpp
+/mnt/sda5/Numerical/Straight_Line/main.cpp
 iostream
 -
 vector

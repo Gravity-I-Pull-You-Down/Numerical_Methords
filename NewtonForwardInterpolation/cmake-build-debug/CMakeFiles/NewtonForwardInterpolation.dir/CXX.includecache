@@ -9,8 +9,6 @@
 /mnt/sda5/Numerical/NewtonForwardInterpolation/main.cpp
 iostream
 -
-cmath
--
 vector
 -
 

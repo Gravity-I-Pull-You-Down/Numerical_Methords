@@ -28,8 +28,8 @@ int main() {
     root = avg(i, i + 1);
     for (int i = 0; i < 10; ++i) {
         root = root - Fx(root) / dFx(root);
-        cout << root << endl;
     }
+    cout << root << endl;
 
     return 0;
 }

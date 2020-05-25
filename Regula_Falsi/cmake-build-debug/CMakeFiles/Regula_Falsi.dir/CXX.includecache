@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/mnt/sda5/CPP_STL/Regula_Falsi/main.cpp
+/mnt/sda5/Numerical/Regula_Falsi/main.cpp
 iostream
 -
 cmath

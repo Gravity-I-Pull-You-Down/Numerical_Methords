@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug"/>
+				<Option working_dir="/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug"/>
+				<Option working_dir="/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug"/>
+				<Option working_dir="/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Eigen_Vector">
-				<Option output="/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug/Eigen_Vector" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug"/>
+				<Option output="/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug/Eigen_Vector" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -54,15 +54,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 Eigen_Vector"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 Eigen_Vector"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Eigen_Vector/fast">
-				<Option output="/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug/Eigen_Vector" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug"/>
+				<Option output="/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug/Eigen_Vector" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -77,17 +77,17 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 Eigen_Vector/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/sda5/CPP_STL/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 Eigen_Vector/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/sda5/Numerical/Eigen_Vector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/mnt/sda5/CPP_STL/Eigen_Vector/main.cpp">
+		<Unit filename="/mnt/sda5/Numerical/Eigen_Vector/main.cpp">
 			<Option target="Eigen_Vector"/>
 		</Unit>
-		<Unit filename="/mnt/sda5/CPP_STL/Eigen_Vector/CMakeLists.txt">
+		<Unit filename="/mnt/sda5/Numerical/Eigen_Vector/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

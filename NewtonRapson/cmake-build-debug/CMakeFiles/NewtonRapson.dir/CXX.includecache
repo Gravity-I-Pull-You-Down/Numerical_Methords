@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/mnt/sda5/CPP_STL/NewtonRapson/main.cpp
+/mnt/sda5/Numerical/NewtonRapson/main.cpp
 iostream
 -
 cmath
